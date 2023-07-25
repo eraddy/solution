@@ -47,7 +47,8 @@ The routing table is static, that means the initial table does not change during
 
 The following class diagram describe the connection between classes.
 
->>> // TODO diagrams come here!!!
+![](https://raw.githubusercontent.com/epam-java-cre/exercise-specification-images/main/oop-network/domain.png)
+![](https://raw.githubusercontent.com/epam-java-cre/exercise-specification-images/main/oop-network/device.png)
 
 We have two different devices in the system. We have servers which we can ping, and routers that can receive a packet
 and can forward it to the next hop based on the routing table. 
